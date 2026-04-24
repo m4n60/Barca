@@ -1,0 +1,31 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Real Madrid",
+      "logo": "https://raw.githubusercontent.com/TU_USUARIO/REPOSITORIO/main/images/real_madrid.png",
+      "stadium": "Santiago Bernabeu",
+      "titles": 35
+    },
+    {
+      "id": 2,
+      "name": "Barcelona", 
+      "logo": "https://raw.githubusercontent.com/TU_USUARIO/REPOSITORIO/main/images/barcelona.png",
+      "stadium": "Camp Nou",
+      "titles": 27
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "home_team": "Real Madrid",
+      "away_team": "Barcelona",
+      "date": "2024-03-15",
+      "score": "2-1",
+      "highlights": "https://raw.githubusercontent.com/TU_USUARIO/REPOSITORIO/main/videos/elclasico.mp4"
+    }
+  ],
+  "audio": {
+    "goal_sound": "https://raw.githubusercontent.com/TU_USUARIO/REPOSITORIO/main/audios/goal.mp3"
+  }
+}
